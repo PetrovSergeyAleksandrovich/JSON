@@ -1,0 +1,46 @@
+{
+"Lord Of The Rings":
+  {"country_of_origin":"NewZeland USA",
+    "director":"Peter Jackson",
+    "producer":"Peter Jackson",
+    "scenario":"Tolkien",
+    "studio":"Universal",
+    "year_of_production":2001
+  },
+"Terminator" :
+  {
+    "country_of_origin" : "USA",
+    "director":"Arnold",
+    "producer":"Skynet",
+    "scenario":"AI",
+    "studio":"PC",
+    "year_of_production":1990
+  },
+  "Breaking Bad" :
+  {
+    "country_of_origin" : "USA",
+    "director":"Vins Gilligan",
+    "producer":"Stuart A Lions",
+    "scenario":"Vins Gilligan",
+    "studio":"Sony Pictures Television",
+    "year_of_production":2008
+  },
+"Terminator 2" :
+  {
+    "country_of_origin" : "USA",
+    "director":"Arnold",
+    "producer":"Skynet",
+    "scenario":"AI",
+    "studio":"PC",
+    "year_of_production":1995
+  },
+"Better Call Saul" :
+  {
+    "country_of_origin" : "USA",
+    "director":"Vins Gilligan",
+    "producer":"Stuart A Lions",
+    "scenario":"Vins Gilligan",
+    "studio":"Sony Pictures Television",
+    "year_of_production":2008
+  }
+}
