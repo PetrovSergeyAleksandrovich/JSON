@@ -8,9 +8,11 @@ set(JSON_BuildTests OFF CACHE INTERNAL "")
 add_executable(JSON main.cpp)
 add_executable(task_1 task_1.cpp)
 add_executable(task_2 task_2.cpp)
+add_executable(task_3 task_3.cpp)
 
 add_subdirectory(nlohmann_json)
 
 target_link_libraries(JSON PRIVATE nlohmann_json::nlohmann_json)
 target_link_libraries(task_1 PRIVATE nlohmann_json::nlohmann_json)
 target_link_libraries(task_2 PRIVATE nlohmann_json::nlohmann_json)
+target_link_libraries(task_3 PRIVATE nlohmann_json::nlohmann_json)
